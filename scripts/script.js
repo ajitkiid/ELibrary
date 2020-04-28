@@ -40,6 +40,14 @@ var booksData = {
             "bookDescription": "Think And Grow Rich has earned itself the reputation of being considered a textbook for actionable techniques that can help one get better at doing anything, not just by rich and wealthy, but also by people doing wonderful work in their respective fields.",
             "imageURL": "images/book5.jpg",
             "bookCategory": "Philosophy"
+		},{
+            "bookName": "Think and Grow Rich",
+            "bookAuthor": "Robin Sharma",
+            "bookID": "5",
+            "bookPrice": "97",
+            "bookDescription": "Think And Grow Rich has earned itself the reputation of being considered a textbook for actionable techniques that can help one get better at doing anything, not just by rich and wealthy, but also by people doing wonderful work in their respective fields.",
+            "imageURL": "images/book5.jpg",
+            "bookCategory": "Philosophy"
 		}
 
 	]
